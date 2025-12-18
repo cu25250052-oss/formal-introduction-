@@ -1,6 +1,5 @@
 # formal-introduction-
-web page containing formal introduction
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     
