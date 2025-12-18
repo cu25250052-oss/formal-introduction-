@@ -3,16 +3,7 @@ web page containing formal introduction
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>My Introduction</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    
     <meta charset="UTF-8">
     <title>My Introduction</title>
     <link rel="stylesheet" href="style.css">
